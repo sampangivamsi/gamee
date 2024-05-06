@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.button-container {
+  margin: 20px;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 0 10px;
+  background-color: lightblue; /* Default color */
+}
+
+.button1 {
+  background-color: palegreen;
+}
+
+.button2 {
+  background-color: skyblue;
+}
+
+.button3 {
+  background-color: coral;
+}
+
+.answer {
+  color: purple;
+  font-size: 18px;
+  margin-top: 20px;
+}
